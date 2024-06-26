@@ -6,7 +6,7 @@ I'm tired of having to spend so much time searching through my goodreads and loc
 
 ## Process 
 
-1. Need to make a webscraper for goodreads since they closed their public API :dissapointed:
+1. Need to make a webscraper for goodreads since they closed their public API :disappointed:
 
 2. Uttilize Libby/Overdrive API to see if a book is avaible or not
 
